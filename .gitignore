@@ -1,0 +1,7 @@
+﻿# Archivos temporales o privados
+*.tmp
+*.bak
+*account*.json
+*device*.json
+*queue*.json
+*.log

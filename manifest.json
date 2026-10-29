@@ -1,0 +1,20 @@
+﻿{
+    "version":  "2026.10.29.0012",
+    "timestamp":  1793232730,
+    "generated_at_utc":  "2026-10-29T00:12:10.1142594+00:00",
+    "bundle_file":  "catalog_bundle.zip",
+    "bundle_size":  12593067,
+    "bundle_sha256":  "032988e6f94478ac24823e134023e44b0f795ea3cec0387a3668ebf36ceebf1c",
+    "files":  [
+                  "catalog.json",
+                  "serverb_catalog.json",
+                  "serverc_catalog.json",
+                  "serverd_catalog.json",
+                  "servee_catalog.json",
+                  "servert_catalog.json",
+                  "serverd_tmdb_map.json",
+                  "servee_tmdb_map.json",
+                  "tmdb_disambiguation.json",
+                  "ratings.json"
+              ]
+}
