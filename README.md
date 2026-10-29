@@ -20,4 +20,4 @@ Las aplicaciones cliente consultan este repositorio al iniciar para sincronizar 
 * **VersiÃ³n:** $version
 * **Fecha:** $generatedAt
 * **TamaÃ±o del bundle:** $zipMb MB
-* **SHA256:** `032988e6f94478ac24823e134023e44b0f795ea3cec0387a3668ebf36ceebf1c`
+* **SHA256:** `bf907f3a3172fae09223123efd612bd93631ba4946434a0f9c59ac5b7b9aff99`
